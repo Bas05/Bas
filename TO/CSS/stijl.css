@@ -4,7 +4,8 @@ h1 {
 }
 
 h2 {
-    color:gold
+  color: gold
+  
 }
 h3 {
     color:gold
@@ -15,7 +16,7 @@ h4 {
 }
 
 .blok {
-           color: aquamarine
+           color: gold
            width: 200px
             height: 100px
             
