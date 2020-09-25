@@ -1,10 +1,8 @@
 h1 {
   background-color: cadetblue;
-<<<<<<< HEAD
+
   color: blue;
-=======
-  color: white;
->>>>>>> 018677daae2b4c7323602bce99ca08da8ef5edfa
+
   font-family: sans-serif;
 }
 
@@ -13,6 +11,7 @@ h2 {
   font-family: sans-serif
   
 }
+
 h3 {
     color:white;
     font-family: sans-serif
@@ -29,21 +28,12 @@ h4 {
   height: 300px
 }
 
-
-
-
 .Bas {
   color:mediumaquamarine;
   float: left;
   width: 500px;
 }
-
-.kat {
-     color:mediumaquamarine;
-  float: left
-  width: 400px;
-  }
-  
+ 
 body {
     background-image: url(../basbas.jpg)
 }
