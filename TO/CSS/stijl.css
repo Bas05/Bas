@@ -1,29 +1,24 @@
 h1 {
-  background-color: gold;
-  color: white;
+  background-color: cadetblue;
+  color: blue;
+  font-family: sans-serif;
 }
 
 h2 {
-  color: gold
+  color: white;
+  font-family: sans-serif
   
 }
 h3 {
-    color:gold
-}
+    color:white;
+    font-family: sans-serif
+    
+}   
 
 h4 {
-    color: gold
+    color: white;
+    font-family: sans-serif
 }
-
-.blok {
-           color: gold
-           width: 200px
-            height: 100px
-            
-
-
-}
-
 .content {
   padding: 40px;
   width: 300px;
@@ -31,13 +26,25 @@ h4 {
 }
 
 
+
+
 .Bas {
   color:mediumaquamarine;
   float: left;
-  width: 300px;
+  width: 500px;
 }
 
-
+.kat {
+     color:mediumaquamarine;
+  float: left
+  width: 400px;
+  }
+  
 body {
     background-image: url(../basbas.jpg)
 }
+
+.backdrop {
+background-color: cadetblue
+}
+
